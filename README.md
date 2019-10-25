@@ -38,5 +38,5 @@ yourself.
 
 ## The Firmware
 
-If you make this, you can use whatever controller and firmware you like. My board runs QMK. Find my firmware and default keymap here: [https://github.com/qmk/qmk_firmware/keyboards/handwired/chiron](https://github.com/qmk/qmk_firmware/keyboards/handwired/chiron) 
+If you make this, you can use whatever controller and firmware you like. My board runs QMK. Find my firmware and default keymap here: [https://github.com/qmk/qmk_firmware/tree/master/keyboards/handwired/chiron](https://github.com/qmk/qmk_firmware/tree/master/keyboards/handwired/chiron) 
 
